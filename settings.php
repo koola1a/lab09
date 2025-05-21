@@ -5,4 +5,5 @@ $user = "root";
 $pwd = "";
 $sql_db = "lab09";
 
+
 ?>
